@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7ab05c4-8094-4c90-95e0-4c23de6133e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb03/uni_onetoone/RunnerFetch03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/Diary04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/RunnerFetch04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/RunnerSave04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/Student04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb05/manytoone/RunnerSave05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb05/manytoone/Student05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb05/manytoone/University.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/hb02/embeddable/RunnerFetch02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb02/embeddable/RunnerFetch02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/uni_onetoone/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb03/uni_onetoone/Diary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/uni_onetoone/RunnerSave03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb03/uni_onetoone/RunnerSave03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/uni_onetoone/Student03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb03/uni_onetoone/Student03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
   "keyToString": {
     "Application.RunnerFetch01.executor": "Run",
     "Application.RunnerFetch02.executor": "Run",
+    "Application.RunnerFetch04.executor": "Run",
     "Application.RunnerSave01.executor": "Run",
     "Application.RunnerSave02.executor": "Run",
     "Application.RunnerSave03.executor": "Run",
@@ -60,7 +63,7 @@
       <recent name="com.tpe.hb03.uni_onetoone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.tpe.hb03.uni_onetoone.RunnerSave03">
+  <component name="RunManager" selected="Application.RunnerFetch04">
     <configuration name="RunnerFetch02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tpe.embeddable.RunnerFetch02" />
       <module name="HibernateInstruction" />
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerSave02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.embeddable.RunnerSave02" />
+    <configuration name="RunnerFetch04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb04.bi_onetoone.RunnerFetch04" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.embeddable.*" />
+          <option name="PATTERN" value="com.tpe.hb04.bi_onetoone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnerFetch04" />
         <item itemvalue="Application.com.tpe.hb03.uni_onetoone.RunnerSave03" />
         <item itemvalue="Application.com.tpe.hb02.embeddable.RunnerSave02" />
         <item itemvalue="Application.RunnerSave03" />
         <item itemvalue="Application.RunnerFetch02" />
-        <item itemvalue="Application.RunnerSave02" />
       </list>
     </recent_temporary>
   </component>
