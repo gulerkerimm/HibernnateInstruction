@@ -13,7 +13,7 @@ public class RunnerFetch02 {
 
         //id:1002 olan ögrencinin tüm bilgilerini görelim
 
-         Student02 student=session.get(Student02.class,1002);
+        Student02 student=session.get(Student02.class,1002);
         System.out.println(student);
 
         //öğrencinin adresini görelim
@@ -22,8 +22,6 @@ public class RunnerFetch02 {
 
         session.close();
         sf.close();
-
-
 
 
 

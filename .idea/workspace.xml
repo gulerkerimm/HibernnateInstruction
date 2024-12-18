@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7ab05c4-8094-4c90-95e0-4c23de6133e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/Diary04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/RunnerFetch04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/RunnerSave04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb04/bi_onetoone/Student04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb05/manytoone/RunnerSave05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb05/manytoone/Student05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb05/manytoone/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb05/manytoone/RunnerFetch05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb06/onetomany/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb06/onetomany/RunnerFetch06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb06/onetomany/RunnerSave06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb06/onetomany/Student06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb07/bi_onetomany/Book07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb07/bi_onetomany/RunnerFetch007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb07/bi_onetomany/RunnerFetch07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb07/bi_onetomany/RunnerSave07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb07/bi_onetomany/Student07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb08/manytomany/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb08/manytomany/RunnerFetch08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb08/manytomany/RunnerSave08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb08/manytomany/Student08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb09/fetchtypes/Book09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb09/fetchtypes/Student09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/hb01/basicannotations/RunnerFetch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb01/basicannotations/RunnerFetch01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/hb01/basicannotations/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb01/basicannotations/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/hb02/embeddable/RunnerFetch02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb02/embeddable/RunnerFetch02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +43,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/tpe/hb01/basicannotations/Employee.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -41,12 +58,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RunnerFetch007.executor": "Run",
     "Application.RunnerFetch01.executor": "Run",
     "Application.RunnerFetch02.executor": "Run",
     "Application.RunnerFetch04.executor": "Run",
+    "Application.RunnerFetch05.executor": "Run",
+    "Application.RunnerFetch07.executor": "Run",
     "Application.RunnerSave01.executor": "Run",
     "Application.RunnerSave02.executor": "Run",
     "Application.RunnerSave03.executor": "Run",
+    "Application.RunnerSave05.executor": "Run",
+    "Application.RunnerSave07.executor": "Run",
     "Application.com.tpe.hb02.embeddable.RunnerSave02.executor": "Run",
     "Application.com.tpe.hb03.uni_onetoone.RunnerSave03.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -55,6 +77,9 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Kerim/IdeaProjects/HibernateInstruction/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
@@ -63,13 +88,13 @@
       <recent name="com.tpe.hb03.uni_onetoone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunnerFetch04">
-    <configuration name="RunnerFetch02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.embeddable.RunnerFetch02" />
+  <component name="RunManager" selected="Application.RunnerSave07">
+    <configuration name="RunnerFetch007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb07.bi_onetomany.RunnerFetch007" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.embeddable.*" />
+          <option name="PATTERN" value="com.tpe.hb07.bi_onetomany.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerFetch04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.hb04.bi_onetoone.RunnerFetch04" />
+    <configuration name="RunnerFetch05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb05.manytoone.RunnerFetch05" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.hb04.bi_onetoone.*" />
+          <option name="PATTERN" value="com.tpe.hb05.manytoone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerSave03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.uni_onetoone.RunnerSave03" />
+    <configuration name="RunnerFetch07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb07.bi_onetomany.RunnerFetch07" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.uni_onetoone.*" />
+          <option name="PATTERN" value="com.tpe.hb07.bi_onetomany.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.tpe.hb02.embeddable.RunnerSave02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.hb02.embeddable.RunnerSave02" />
+    <configuration name="RunnerSave05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb05.manytoone.RunnerSave05" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.hb02.embeddable.*" />
+          <option name="PATTERN" value="com.tpe.hb05.manytoone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.tpe.hb03.uni_onetoone.RunnerSave03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.hb03.uni_onetoone.RunnerSave03" />
+    <configuration name="RunnerSave07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb07.bi_onetomany.RunnerSave07" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.hb03.uni_onetoone.*" />
+          <option name="PATTERN" value="com.tpe.hb07.bi_onetomany.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunnerFetch04" />
-        <item itemvalue="Application.com.tpe.hb03.uni_onetoone.RunnerSave03" />
-        <item itemvalue="Application.com.tpe.hb02.embeddable.RunnerSave02" />
-        <item itemvalue="Application.RunnerSave03" />
-        <item itemvalue="Application.RunnerFetch02" />
+        <item itemvalue="Application.RunnerSave07" />
+        <item itemvalue="Application.RunnerFetch007" />
+        <item itemvalue="Application.RunnerFetch07" />
+        <item itemvalue="Application.RunnerFetch05" />
+        <item itemvalue="Application.RunnerSave05" />
       </list>
     </recent_temporary>
   </component>

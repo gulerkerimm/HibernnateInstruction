@@ -43,23 +43,28 @@ public class Student {//pojo class
         return name;
     }
 
-    public void setName(String name) {
+    public void setName(String name)
+    {
         this.name = name;
     }
 
-    public String getSurname() {
+    public String getSurname()
+    {
         return surname;
     }
 
-    public void setSurname(String surname) {
+    public void setSurname(String surname)
+    {
         this.surname = surname;
     }
 
-    public int getGrade() {
+    public int getGrade()
+    {
         return grade;
     }
 
     public void setGrade(int grade) {
+
         this.grade = grade;
     }
     //toString

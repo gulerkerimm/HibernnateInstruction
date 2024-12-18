@@ -40,7 +40,7 @@ public class RunnerFetch01 {
         Object[] student2 = (Object[]) session.createSQLQuery(sql).uniqueResult();
         //uniqueResult(): sorgunun tek satır getirecegi durumlarda kullanılır
         //geriye bir satırdan birden fazla farklı data geldigi icin data tipleri farklı oldugu icin
-        //Object[] icine alınır
+        //Object[] icine alınır.
         System.out.println(Arrays.toString(student2));
 
 
