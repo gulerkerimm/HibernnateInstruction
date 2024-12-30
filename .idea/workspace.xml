@@ -5,19 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7ab05c4-8094-4c90-95e0-4c23de6133e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb09/fetchtypes/RunnerFetch09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb09/fetchtypes/RunnerSave09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb10/RunnerSave10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb10/Student10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb11/caching/RunnerFetch11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb11/caching/RunnerSave11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb11/caching/Student11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb12/get_load/RunnerFetch12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb12/get_load/RunnerSave12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb12/get_load/Student12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb13/entity_life_cycle/Student13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/practice/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/practice/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/practice/RunnerQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/practice/RunnerSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/practice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_bi/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_bi/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_bi/RunnerFetch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_bi/RunnerSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_bi/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_uni/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_uni/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_uni/RunnerFetch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_uni/RunnerSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/recap/relations_uni/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/hb09/fetchtypes/Book09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/hb09/fetchtypes/Book09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gulerkerimm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gulerkerimm/HibernnateInstruction.git",
+    "accountId": "c42f7021-e2e8-4152-a2ec-8c87e7db7eae"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/com/tpe/hb01/basicannotations/Employee.java" root0="SKIP_INSPECTION" />
   </component>
@@ -47,39 +62,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.RunnerFetch007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerFetch01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerFetch02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerFetch04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerFetch05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerFetch07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerSave01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerSave02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerSave03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerSave05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnerSave07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.tpe.hb02.embeddable.RunnerSave02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.tpe.hb03.uni_onetoone.RunnerSave03.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Kerim/IdeaProjects/HibernateInstruction/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.RunnerFetch007.executor": "Run",
+    "Application.RunnerFetch01.executor": "Run",
+    "Application.RunnerFetch02.executor": "Run",
+    "Application.RunnerFetch04.executor": "Run",
+    "Application.RunnerFetch05.executor": "Run",
+    "Application.RunnerFetch07.executor": "Run",
+    "Application.RunnerSave01.executor": "Run",
+    "Application.RunnerSave02.executor": "Run",
+    "Application.RunnerSave03.executor": "Run",
+    "Application.RunnerSave04.executor": "Run",
+    "Application.RunnerSave05.executor": "Run",
+    "Application.RunnerSave07.executor": "Run",
+    "Application.com.tpe.hb02.embeddable.RunnerSave02.executor": "Run",
+    "Application.com.tpe.hb03.uni_onetoone.RunnerSave03.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Kerim/IdeaProjects/HibernateInstruction/src/main/java/com/tpe/recap/relations_uni",
+    "onboarding.tips.debug.path": "C:/Users/Kerim/IdeaProjects/HibernateInstruction/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.tpe.hb03.uni_onetoone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunnerSave07">
+  <component name="RunManager" selected="Application.RunnerFetch04">
     <configuration name="RunnerFetch007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tpe.hb07.bi_onetomany.RunnerFetch007" />
       <module name="HibernateInstruction" />
@@ -93,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerFetch05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.hb05.manytoone.RunnerFetch05" />
+    <configuration name="RunnerFetch04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb04.bi_onetoone.RunnerFetch04" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.hb05.manytoone.*" />
+          <option name="PATTERN" value="com.tpe.hb04.bi_onetoone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnerSave05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tpe.hb05.manytoone.RunnerSave05" />
+    <configuration name="RunnerSave04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.hb04.bi_onetoone.RunnerSave04" />
       <module name="HibernateInstruction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tpe.hb05.manytoone.*" />
+          <option name="PATTERN" value="com.tpe.hb04.bi_onetoone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnerFetch04" />
+        <item itemvalue="Application.RunnerSave04" />
         <item itemvalue="Application.RunnerSave07" />
         <item itemvalue="Application.RunnerFetch007" />
         <item itemvalue="Application.RunnerFetch07" />
-        <item itemvalue="Application.RunnerFetch05" />
-        <item itemvalue="Application.RunnerSave05" />
       </list>
     </recent_temporary>
   </component>
